@@ -9,8 +9,8 @@ from openpyxl import Workbook
 from openpyxl import load_workbook
 
 
-numofptns = 10  # number of measurements
-waittime =  2   # waittime between measurements
+numofptns = 20  # number of measurements
+waittime =  3   # waittime between measurements
 rfilename =  "data.xlsx" # spreadsheet name
 
 ##############################################################################
